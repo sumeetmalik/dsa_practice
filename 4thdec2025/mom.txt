@@ -1,0 +1,4 @@
+1. Intro to 2-d arrays
+2. Spiral print
+3. Wave print
+4. Matrix multiplication
