@@ -1,0 +1,4 @@
+arrays and 2d arrays
+1. linear search in an array
+2. Sum of two arrays
+3. Binary search

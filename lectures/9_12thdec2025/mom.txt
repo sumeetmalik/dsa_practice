@@ -1,0 +1,6 @@
+1. Question 1
+1.1 Convert all the lowercase chars of a string to upper case
+1.2 Convert all the uppercase chars of the same to lower case
+1.3 Convert all other chars to *
+1.4 Take the input string from user
+1.5 Display the output string to user
