@@ -1,0 +1,13 @@
+Write a document
+-> Speak to chatgpt (also explore reddit, YT, twitter and general internet) about openclaw and write your layman understanding of what it is
+-> Speak to chatgpt (also explore reddit, YT, twitter and general internet) about AI agents and write your layman understanding of what it is
+-> Speak to chatgpt (also explore reddit, YT, twitter and general internet) about KimiAI's cloud openclaw and write your layman understanding of what it is
+-> Try to create your first agent in KimiAI's cloud openclaw
+--> Integrate your calendar in it
+--> Everyday at 5 pm, it should read your calendar and send you a mail about your meetings tomorrow
+
+Watch and code top 4 videos from https://www.youtube.com/watch?v=5Q5ed7PWJ8I&list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
+--> Introduction to recursion (printDecreasing)
+--> printIncreasing
+--> printDecreasingIncreasing
+
